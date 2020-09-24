@@ -15,3 +15,7 @@ tuve que añadir el siguiente comando:
 $ export PATH=~/anaconda3/bin:$PATH
 
 Si al momento de ejecutar el comando $conda --version no obtuviste respuesta puede intentar realizar el comando anterior. 
+
+Para inicializar Anaconda desde la terminal se usa el siguiente comando:
+
+$ anaconda-navigator
