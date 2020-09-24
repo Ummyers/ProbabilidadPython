@@ -7,9 +7,11 @@ Para verificar la correcta instalación lo podrás verificar con el siguiente co
 
 $conda --version
 
-Lo que debería devolverte algo como: conda 4.8.3
+Debería devolverte algo como: conda 4.8.3
 
 Sin embargo, en mi caso al terminar de realizar las instrucciones, debido a unas configuraciones para el proyecto del Framework Ligra 
-tuve que añadir el siguiente comando
+tuve que añadir el siguiente comando:
 
 $ export PATH=~/anaconda3/bin:$PATH
+
+Si al momento de ejecutar el comando $conda --version no obtuviste respuesta puede intentar realizar el comando anterior. 
